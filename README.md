@@ -4,7 +4,7 @@ The example app in this repository is part of [a Smashing Magazine article on Fl
 
 ## Getting started
 
-To build and run this app, after enabling desktop development, run the following command:
+To build and run this app, after enabling desktop development, generate the files Flutter needs to build the app by running the following command:
 
 ~~~
 $ flutter create .
